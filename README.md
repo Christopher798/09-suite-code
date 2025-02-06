@@ -1,8 +1,8 @@
 
-# IOS and Android App Test Suite
+# iOS and Android App Test Suite
 
 ## Overview
-This project contains the test suite using Appium test automation framework in Python for IOS and Android demo apps. It includes various test cases and scripts to ensure the quality and reliability of the software.
+This project contains the test suite using Appium test automation framework in Python for iOS and Android demo apps. It includes various test cases and scripts to ensure the quality and reliability of the software.
 
 ## Project Structure
 - `src/`: Contains the source code for the test cases.
